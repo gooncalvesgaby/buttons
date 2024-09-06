@@ -15,4 +15,5 @@ border: solid 1px black;
 border-radius: 1rem;
 color: white;
 background-color: #0c0303;
+margin: 10px;
 `
